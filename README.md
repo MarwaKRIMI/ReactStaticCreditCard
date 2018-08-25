@@ -1,2 +1,0 @@
-# ReactStaticCreditCard
-Created with CodeSandbox

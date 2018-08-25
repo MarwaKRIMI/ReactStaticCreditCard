@@ -1,0 +1,38 @@
+.card {
+  width: 350px;
+  background-size: cover;
+  background-color: #042848;
+  color: white;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+.Title {
+  text-align: right;
+}
+.credit-card-id {
+  display: flex;
+  justify-content: space-around;
+}
+.puce {
+  width: 60px;
+  height: 40px;
+}
+.MasterCard {
+  margin-left: 250px;
+  width: 70px;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 10px;
+}
+.cardNumber {
+  color: gold;
+  font-weight: bold;
+}
+.code {
+  color: white;
+  margin-right: 50px;
+}
+.type {
+  color: white;
+  font-size: 20px;
+}
